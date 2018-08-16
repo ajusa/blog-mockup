@@ -10,16 +10,16 @@
     border-color: #fff
 }
 
-.gray {
-    color: #ced4da
+.light {
+    color: rgba(0, 0, 0, 0.5);
 }
 
-.bg-gray {
-    background-color: #ced4da
+.bg-light {
+    background-color: rgba(0, 0, 0, 0.5)
 }
 
-.b-gray {
-    border-color: #ced4da
+.b-light {
+    border-color: rgba(0, 0, 0, 0.5)
 }
 
 .black {
@@ -326,7 +326,7 @@
     font-weight: 400
 }
 
-.light {
+.thin {
     font-weight: 300
 }
 
